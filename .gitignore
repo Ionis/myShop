@@ -1,6 +1,2 @@
 /.idea
 /.vscode
-/tmp/smarty/template_c/*
-/tmp/smarty/cache/*
-!/tmp/smarty/template_c/
-!/tmp/smarty/cache/
