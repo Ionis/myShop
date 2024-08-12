@@ -1,0 +1,32 @@
+body {
+    margin: auto;
+    width: 1024px;
+    padding: 10px;
+    background-color: fafafa;
+    font-size: 14px;
+    font-family: Verdana;
+    overflow-y: hidden;
+}
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+#content {
+    width: 800px;
+    padding-left: 20px;
+    min-height: 300px;
+    top: 0;
+    right: 0;
+    display: inline-block;
+}
+.card {
+    display: inline-block;
+    margin: 10px;
+}
+.card img {
+    padding: 5px;
+}
+.order {
+    float: right;
+    margin: 10px;
+}
